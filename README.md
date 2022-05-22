@@ -15,4 +15,3 @@ Agenda:
  * Praktyczny wstęp do Normalizing Flows z wykorzystaniem pakietu **nflows**.
  * Metoda Flow Plugin Network (FPN)
  * Wykorzystanie metody FPN do warunkowego generowania obrazów
- * Wykorzystanie metody FPN do warunkowego generowania chmur punktów
